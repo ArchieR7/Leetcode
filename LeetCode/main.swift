@@ -10,3 +10,5 @@ import Foundation
 
 struct Easy {}
 struct Medium {}
+
+print(countElements([1,1,3,3,5,5,7,7]))

@@ -16,6 +16,7 @@
 		21FF209E244DF9FD00B81EDB /* [122]Best Time to Buy and Sell Stock II.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21FF209D244DF9FD00B81EDB /* [122]Best Time to Buy and Sell Stock II.swift */; };
 		21FF20A0244DFC6600B81EDB /* [1046]Last Stone Weight.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21FF209F244DFC6600B81EDB /* [1046]Last Stone Weight.swift */; };
 		21FF20A2244E086700B81EDB /* Perform String Shifts.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21FF20A1244E086700B81EDB /* Perform String Shifts.swift */; };
+		21FF20A5244E0C3100B81EDB /* Counting Elements.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21FF20A4244E0C3100B81EDB /* Counting Elements.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -41,6 +42,7 @@
 		21FF209D244DF9FD00B81EDB /* [122]Best Time to Buy and Sell Stock II.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[122]Best Time to Buy and Sell Stock II.swift"; sourceTree = "<group>"; };
 		21FF209F244DFC6600B81EDB /* [1046]Last Stone Weight.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[1046]Last Stone Weight.swift"; sourceTree = "<group>"; };
 		21FF20A1244E086700B81EDB /* Perform String Shifts.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Perform String Shifts.swift"; sourceTree = "<group>"; };
+		21FF20A4244E0C3100B81EDB /* Counting Elements.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Counting Elements.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -76,6 +78,7 @@
 				21FF208A244DDD4500B81EDB /* main.swift */,
 				21FF2093244DE19C00B81EDB /* Easy */,
 				21FF209A244DF50D00B81EDB /* Medium */,
+				21FF20A3244E0C1600B81EDB /* Uncategory */,
 			);
 			path = LeetCode;
 			sourceTree = "<group>";
@@ -89,7 +92,6 @@
 				21FF2094244DE21200B81EDB /* [202]Happy Number.swift */,
 				21FF2098244DF32100B81EDB /* [283]Move Zeroes.swift */,
 				21FF209F244DFC6600B81EDB /* [1046]Last Stone Weight.swift */,
-				21FF20A1244E086700B81EDB /* Perform String Shifts.swift */,
 			);
 			path = Easy;
 			sourceTree = "<group>";
@@ -100,6 +102,15 @@
 				21FF209B244DF52300B81EDB /* [49]Group Anagrams.swift */,
 			);
 			path = Medium;
+			sourceTree = "<group>";
+		};
+		21FF20A3244E0C1600B81EDB /* Uncategory */ = {
+			isa = PBXGroup;
+			children = (
+				21FF20A1244E086700B81EDB /* Perform String Shifts.swift */,
+				21FF20A4244E0C3100B81EDB /* Counting Elements.swift */,
+			);
+			path = Uncategory;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -164,6 +175,7 @@
 				21FF209E244DF9FD00B81EDB /* [122]Best Time to Buy and Sell Stock II.swift in Sources */,
 				21FF2099244DF32100B81EDB /* [283]Move Zeroes.swift in Sources */,
 				21FF2097244DE33D00B81EDB /* [53]Maximum Subarray.swift in Sources */,
+				21FF20A5244E0C3100B81EDB /* Counting Elements.swift in Sources */,
 				21FF20A2244E086700B81EDB /* Perform String Shifts.swift in Sources */,
 				21FF2092244DDDAC00B81EDB /* [136]Single Number.swift in Sources */,
 				21FF2095244DE21200B81EDB /* [202]Happy Number.swift in Sources */,
