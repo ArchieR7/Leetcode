@@ -11,4 +11,5 @@ import Foundation
 struct Easy {}
 struct Medium {}
 
-print(countElements([1,1,3,3,5,5,7,7]))
+print(Easy.maxSubArray([-2,1,-3,4,-1,2,1,-5,4]))
+print(Easy.maxSubArray([-2,-1]))
