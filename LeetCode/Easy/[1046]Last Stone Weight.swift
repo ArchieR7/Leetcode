@@ -7,3 +7,18 @@
 //
 
 import Foundation
+
+extension Easy {
+    static func lastStoneWeight(_ stones: [Int]) -> Int {
+        var sorted = stones.sorted()
+        while sorted.count > 1 {
+            let heaviest = sorted.removeLast()
+            let second = sorted.removeLast()
+            if heaviest != second {
+                sorted.append(heaviest - second)
+            }
+            sorted.sort()
+        }
+        return sorted.first ?? 0
+    }
+}
