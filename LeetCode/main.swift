@@ -11,5 +11,10 @@ import Foundation
 struct Easy {}
 struct Medium {}
 
-print(Easy.maxSubArray([-2,1,-3,4,-1,2,1,-5,4]))
-print(Easy.maxSubArray([-2,-1]))
+let root = TreeNode(1)
+root.left = TreeNode(2)
+root.right = TreeNode(3)
+root.left?.left = TreeNode(4)
+root.left?.right = TreeNode(5)
+
+print(Easy.diameterOfBinaryTree(root))
