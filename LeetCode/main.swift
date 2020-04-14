@@ -11,10 +11,4 @@ import Foundation
 struct Easy {}
 struct Medium {}
 
-let root = TreeNode(1)
-root.left = TreeNode(2)
-root.right = TreeNode(3)
-root.left?.left = TreeNode(4)
-root.left?.right = TreeNode(5)
-
-print(Easy.diameterOfBinaryTree(root))
+print(Easy.twoSum([2, 7, 11, 15], target: 18))
