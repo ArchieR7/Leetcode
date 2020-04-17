@@ -11,4 +11,5 @@ import Foundation
 struct Easy {}
 struct Medium {}
 
-print(Easy.twoSum([2, 7, 11, 15], target: 18))
+let result = Easy.romanToInt("MCMXCIV")
+print(result)

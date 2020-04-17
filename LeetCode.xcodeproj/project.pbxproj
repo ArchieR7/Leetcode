@@ -10,6 +10,7 @@
 		2143CBC2247254E700187324 /* [1]Two Sum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2143CBC1247254E700187324 /* [1]Two Sum.swift */; };
 		2143CBC42472585E00187324 /* [7]Reverse Integer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2143CBC32472585E00187324 /* [7]Reverse Integer.swift */; };
 		2143CBC62472590800187324 /* [9]Palindrome Number.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2143CBC52472590800187324 /* [9]Palindrome Number.swift */; };
+		2143CBC824725A8700187324 /* [13]Roman to Integer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2143CBC724725A8700187324 /* [13]Roman to Integer.swift */; };
 		215CADBA244ED92600F16D22 /* [238]Product of Array Except Self.swift in Sources */ = {isa = PBXBuildFile; fileRef = 215CADB9244ED92600F16D22 /* [238]Product of Array Except Self.swift */; };
 		215CADBC244F35B700F16D22 /* Number of Islands.swift in Sources */ = {isa = PBXBuildFile; fileRef = 215CADBB244F35B700F16D22 /* Number of Islands.swift */; };
 		21B0814324515F9700B0AE66 /* [525]Contiguous Array.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21B0814224515F9700B0AE66 /* [525]Contiguous Array.swift */; };
@@ -47,6 +48,7 @@
 		2143CBC1247254E700187324 /* [1]Two Sum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[1]Two Sum.swift"; sourceTree = "<group>"; };
 		2143CBC32472585E00187324 /* [7]Reverse Integer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[7]Reverse Integer.swift"; sourceTree = "<group>"; };
 		2143CBC52472590800187324 /* [9]Palindrome Number.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[9]Palindrome Number.swift"; sourceTree = "<group>"; };
+		2143CBC724725A8700187324 /* [13]Roman to Integer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[13]Roman to Integer.swift"; sourceTree = "<group>"; };
 		215CADB9244ED92600F16D22 /* [238]Product of Array Except Self.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[238]Product of Array Except Self.swift"; sourceTree = "<group>"; };
 		215CADBB244F35B700F16D22 /* Number of Islands.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Number of Islands.swift"; sourceTree = "<group>"; };
 		21B0814224515F9700B0AE66 /* [525]Contiguous Array.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[525]Contiguous Array.swift"; sourceTree = "<group>"; };
@@ -113,6 +115,7 @@
 				2143CBC1247254E700187324 /* [1]Two Sum.swift */,
 				2143CBC32472585E00187324 /* [7]Reverse Integer.swift */,
 				2143CBC52472590800187324 /* [9]Palindrome Number.swift */,
+				2143CBC724725A8700187324 /* [13]Roman to Integer.swift */,
 				21FF2096244DE33D00B81EDB /* [53]Maximum Subarray.swift */,
 				21FF209D244DF9FD00B81EDB /* [122]Best Time to Buy and Sell Stock II.swift */,
 				21FF2091244DDDAC00B81EDB /* [136]Single Number.swift */,
@@ -220,6 +223,7 @@
 				2143CBC62472590800187324 /* [9]Palindrome Number.swift in Sources */,
 				21B0814724517C1700B0AE66 /* [844]Backspace String Compare.swift in Sources */,
 				21FF20A5244E0C3100B81EDB /* Counting Elements.swift in Sources */,
+				2143CBC824725A8700187324 /* [13]Roman to Integer.swift in Sources */,
 				21FF20A2244E086700B81EDB /* Perform String Shifts.swift in Sources */,
 				21B081492451BE3200B0AE66 /* TreeNode.swift in Sources */,
 				215CADBA244ED92600F16D22 /* [238]Product of Array Except Self.swift in Sources */,
