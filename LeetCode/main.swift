@@ -11,5 +11,5 @@ import Foundation
 struct Easy {}
 struct Medium {}
 
-let result = Easy.romanToInt("MCMXCIV")
+let result = Easy.longestCommonPrefix(["c", "acc"])
 print(result)
