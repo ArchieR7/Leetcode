@@ -13,6 +13,7 @@
 		2143CBC824725A8700187324 /* [13]Roman to Integer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2143CBC724725A8700187324 /* [13]Roman to Integer.swift */; };
 		2143CBCA24725F9D00187324 /* [14]Longest Common Prefix.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2143CBC924725F9D00187324 /* [14]Longest Common Prefix.swift */; };
 		2143CBCC2472632600187324 /* [20]Valid Parentheses.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2143CBCB2472632600187324 /* [20]Valid Parentheses.swift */; };
+		2143CBCE2472647500187324 /* [617]Merge Two Binary Trees.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2143CBCD2472647500187324 /* [617]Merge Two Binary Trees.swift */; };
 		215CADBA244ED92600F16D22 /* [238]Product of Array Except Self.swift in Sources */ = {isa = PBXBuildFile; fileRef = 215CADB9244ED92600F16D22 /* [238]Product of Array Except Self.swift */; };
 		215CADBC244F35B700F16D22 /* Number of Islands.swift in Sources */ = {isa = PBXBuildFile; fileRef = 215CADBB244F35B700F16D22 /* Number of Islands.swift */; };
 		21B0814324515F9700B0AE66 /* [525]Contiguous Array.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21B0814224515F9700B0AE66 /* [525]Contiguous Array.swift */; };
@@ -53,6 +54,7 @@
 		2143CBC724725A8700187324 /* [13]Roman to Integer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[13]Roman to Integer.swift"; sourceTree = "<group>"; };
 		2143CBC924725F9D00187324 /* [14]Longest Common Prefix.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[14]Longest Common Prefix.swift"; sourceTree = "<group>"; };
 		2143CBCB2472632600187324 /* [20]Valid Parentheses.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[20]Valid Parentheses.swift"; sourceTree = "<group>"; };
+		2143CBCD2472647500187324 /* [617]Merge Two Binary Trees.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[617]Merge Two Binary Trees.swift"; sourceTree = "<group>"; };
 		215CADB9244ED92600F16D22 /* [238]Product of Array Except Self.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[238]Product of Array Except Self.swift"; sourceTree = "<group>"; };
 		215CADBB244F35B700F16D22 /* Number of Islands.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Number of Islands.swift"; sourceTree = "<group>"; };
 		21B0814224515F9700B0AE66 /* [525]Contiguous Array.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[525]Contiguous Array.swift"; sourceTree = "<group>"; };
@@ -129,6 +131,7 @@
 				21FF2094244DE21200B81EDB /* [202]Happy Number.swift */,
 				21FF2098244DF32100B81EDB /* [283]Move Zeroes.swift */,
 				21B0814A2451BE8600B0AE66 /* [543]Diameter of Binary Tree.swift */,
+				2143CBCD2472647500187324 /* [617]Merge Two Binary Trees.swift */,
 				21B0814624517C1700B0AE66 /* [844]Backspace String Compare.swift */,
 				21B52605244EC58F0010B1AE /* [876]Middle of the Linked List.swift */,
 				21FF209F244DFC6600B81EDB /* [1046]Last Stone Weight.swift */,
@@ -224,6 +227,7 @@
 				2143CBC42472585E00187324 /* [7]Reverse Integer.swift in Sources */,
 				21FF2099244DF32100B81EDB /* [283]Move Zeroes.swift in Sources */,
 				215CADBC244F35B700F16D22 /* Number of Islands.swift in Sources */,
+				2143CBCE2472647500187324 /* [617]Merge Two Binary Trees.swift in Sources */,
 				21FF2097244DE33D00B81EDB /* [53]Maximum Subarray.swift in Sources */,
 				21B52608244ED7F50010B1AE /* [33]Search in Rotated Sorted Array.swift in Sources */,
 				2143CBC62472590800187324 /* [9]Palindrome Number.swift in Sources */,
