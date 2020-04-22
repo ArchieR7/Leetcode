@@ -16,6 +16,7 @@
 		2143CBCE2472647500187324 /* [617]Merge Two Binary Trees.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2143CBCD2472647500187324 /* [617]Merge Two Binary Trees.swift */; };
 		2143CBD02472652500187324 /* [709]To Lower Case.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2143CBCF2472652500187324 /* [709]To Lower Case.swift */; };
 		2143CBD2247265CD00187324 /* [771]Jewels and Stones.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2143CBD1247265CD00187324 /* [771]Jewels and Stones.swift */; };
+		2143CBD42472667A00187324 /* [1221]Split a String in Balanced Strings.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2143CBD32472667A00187324 /* [1221]Split a String in Balanced Strings.swift */; };
 		215CADBA244ED92600F16D22 /* [238]Product of Array Except Self.swift in Sources */ = {isa = PBXBuildFile; fileRef = 215CADB9244ED92600F16D22 /* [238]Product of Array Except Self.swift */; };
 		215CADBC244F35B700F16D22 /* Number of Islands.swift in Sources */ = {isa = PBXBuildFile; fileRef = 215CADBB244F35B700F16D22 /* Number of Islands.swift */; };
 		21B0814324515F9700B0AE66 /* [525]Contiguous Array.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21B0814224515F9700B0AE66 /* [525]Contiguous Array.swift */; };
@@ -59,6 +60,7 @@
 		2143CBCD2472647500187324 /* [617]Merge Two Binary Trees.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[617]Merge Two Binary Trees.swift"; sourceTree = "<group>"; };
 		2143CBCF2472652500187324 /* [709]To Lower Case.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[709]To Lower Case.swift"; sourceTree = "<group>"; };
 		2143CBD1247265CD00187324 /* [771]Jewels and Stones.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[771]Jewels and Stones.swift"; sourceTree = "<group>"; };
+		2143CBD32472667A00187324 /* [1221]Split a String in Balanced Strings.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[1221]Split a String in Balanced Strings.swift"; sourceTree = "<group>"; };
 		215CADB9244ED92600F16D22 /* [238]Product of Array Except Self.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[238]Product of Array Except Self.swift"; sourceTree = "<group>"; };
 		215CADBB244F35B700F16D22 /* Number of Islands.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Number of Islands.swift"; sourceTree = "<group>"; };
 		21B0814224515F9700B0AE66 /* [525]Contiguous Array.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[525]Contiguous Array.swift"; sourceTree = "<group>"; };
@@ -141,6 +143,7 @@
 				21B0814624517C1700B0AE66 /* [844]Backspace String Compare.swift */,
 				21B52605244EC58F0010B1AE /* [876]Middle of the Linked List.swift */,
 				21FF209F244DFC6600B81EDB /* [1046]Last Stone Weight.swift */,
+				2143CBD32472667A00187324 /* [1221]Split a String in Balanced Strings.swift */,
 			);
 			path = Easy;
 			sourceTree = "<group>";
@@ -253,6 +256,7 @@
 				21FF208B244DDD4500B81EDB /* main.swift in Sources */,
 				21FF209C244DF52300B81EDB /* [49]Group Anagrams.swift in Sources */,
 				2143CBD2247265CD00187324 /* [771]Jewels and Stones.swift in Sources */,
+				2143CBD42472667A00187324 /* [1221]Split a String in Balanced Strings.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
