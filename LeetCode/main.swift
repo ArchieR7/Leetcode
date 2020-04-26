@@ -11,5 +11,5 @@ import Foundation
 struct Easy {}
 struct Medium {}
 
-let result = Easy.longestCommonPrefix(["c", "acc"])
+let result = Easy.strStr("hello", "ll")
 print(result)
