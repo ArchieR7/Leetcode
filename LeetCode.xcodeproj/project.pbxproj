@@ -21,6 +21,7 @@
 		2143CBD82472674C00187324 /* [1108]Defanging an IP Address.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2143CBD72472674C00187324 /* [1108]Defanging an IP Address.swift */; };
 		2143CBDA247267B500187324 /* [867]Transpose Matrix.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2143CBD9247267B500187324 /* [867]Transpose Matrix.swift */; };
 		2143CBDC2472687000187324 /* [28]Implement strStr().swift in Sources */ = {isa = PBXBuildFile; fileRef = 2143CBDB2472687000187324 /* [28]Implement strStr().swift */; };
+		2143CBDE24726B1500187324 /* [35]Search Insert Position.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2143CBDD24726B1500187324 /* [35]Search Insert Position.swift */; };
 		215CADBA244ED92600F16D22 /* [238]Product of Array Except Self.swift in Sources */ = {isa = PBXBuildFile; fileRef = 215CADB9244ED92600F16D22 /* [238]Product of Array Except Self.swift */; };
 		215CADBC244F35B700F16D22 /* Number of Islands.swift in Sources */ = {isa = PBXBuildFile; fileRef = 215CADBB244F35B700F16D22 /* Number of Islands.swift */; };
 		21B0814324515F9700B0AE66 /* [525]Contiguous Array.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21B0814224515F9700B0AE66 /* [525]Contiguous Array.swift */; };
@@ -69,6 +70,7 @@
 		2143CBD72472674C00187324 /* [1108]Defanging an IP Address.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[1108]Defanging an IP Address.swift"; sourceTree = "<group>"; };
 		2143CBD9247267B500187324 /* [867]Transpose Matrix.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[867]Transpose Matrix.swift"; sourceTree = "<group>"; };
 		2143CBDB2472687000187324 /* [28]Implement strStr().swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[28]Implement strStr().swift"; sourceTree = "<group>"; };
+		2143CBDD24726B1500187324 /* [35]Search Insert Position.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[35]Search Insert Position.swift"; sourceTree = "<group>"; };
 		215CADB9244ED92600F16D22 /* [238]Product of Array Except Self.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[238]Product of Array Except Self.swift"; sourceTree = "<group>"; };
 		215CADBB244F35B700F16D22 /* Number of Islands.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Number of Islands.swift"; sourceTree = "<group>"; };
 		21B0814224515F9700B0AE66 /* [525]Contiguous Array.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[525]Contiguous Array.swift"; sourceTree = "<group>"; };
@@ -139,6 +141,7 @@
 				2143CBC924725F9D00187324 /* [14]Longest Common Prefix.swift */,
 				2143CBCB2472632600187324 /* [20]Valid Parentheses.swift */,
 				2143CBDB2472687000187324 /* [28]Implement strStr().swift */,
+				2143CBDD24726B1500187324 /* [35]Search Insert Position.swift */,
 				21FF2096244DE33D00B81EDB /* [53]Maximum Subarray.swift */,
 				21FF209D244DF9FD00B81EDB /* [122]Best Time to Buy and Sell Stock II.swift */,
 				21FF2091244DDDAC00B81EDB /* [136]Single Number.swift */,
@@ -272,6 +275,7 @@
 				21FF208B244DDD4500B81EDB /* main.swift in Sources */,
 				21FF209C244DF52300B81EDB /* [49]Group Anagrams.swift in Sources */,
 				2143CBD2247265CD00187324 /* [771]Jewels and Stones.swift in Sources */,
+				2143CBDE24726B1500187324 /* [35]Search Insert Position.swift in Sources */,
 				2143CBD42472667A00187324 /* [1221]Split a String in Balanced Strings.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
