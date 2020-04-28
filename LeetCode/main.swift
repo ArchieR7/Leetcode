@@ -11,5 +11,5 @@ import Foundation
 struct Easy {}
 struct Medium {}
 
-let result = Easy.strStr("hello", "ll")
+let result = Easy.countAndSay(5)
 print(result)
