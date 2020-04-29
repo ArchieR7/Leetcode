@@ -11,5 +11,5 @@ import Foundation
 struct Easy {}
 struct Medium {}
 
-let result = Easy.countAndSay(5)
+let result = Easy.letterCasePermutation("a1b2")
 print(result)
