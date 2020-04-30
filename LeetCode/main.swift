@@ -11,5 +11,5 @@ import Foundation
 struct Easy {}
 struct Medium {}
 
-let result = Easy.letterCasePermutation("a1b2")
+let result = Easy.guessNumber(10)
 print(result)
