@@ -11,5 +11,5 @@ import Foundation
 struct Easy {}
 struct Medium {}
 
-let result = Easy.guessNumber(10)
+let result = Easy.firstBadVersion(2126753390)
 print(result)
