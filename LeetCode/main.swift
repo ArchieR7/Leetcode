@@ -11,5 +11,5 @@ import Foundation
 struct Easy {}
 struct Medium {}
 
-let result = Easy.firstBadVersion(2126753390)
+let result = Easy.canConstruct("aa", "ab")
 print(result)
