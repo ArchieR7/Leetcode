@@ -8,6 +8,8 @@
 
 /* Begin PBXBuildFile section */
 		21399A9224728EF3004EDA98 /* [383]Ransom Note.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21399A9124728EF3004EDA98 /* [383]Ransom Note.swift */; };
+		21399A94247293BE004EDA98 /* [567]Permutation in String.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21399A93247293BE004EDA98 /* [567]Permutation in String.swift */; };
+		21399A962472CE8A004EDA98 /* [1431]Kids With the Greatest Number of Candies.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21399A952472CE8A004EDA98 /* [1431]Kids With the Greatest Number of Candies.swift */; };
 		2143CBC2247254E700187324 /* [1]Two Sum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2143CBC1247254E700187324 /* [1]Two Sum.swift */; };
 		2143CBC42472585E00187324 /* [7]Reverse Integer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2143CBC32472585E00187324 /* [7]Reverse Integer.swift */; };
 		2143CBC62472590800187324 /* [9]Palindrome Number.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2143CBC52472590800187324 /* [9]Palindrome Number.swift */; };
@@ -62,6 +64,8 @@
 
 /* Begin PBXFileReference section */
 		21399A9124728EF3004EDA98 /* [383]Ransom Note.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[383]Ransom Note.swift"; sourceTree = "<group>"; };
+		21399A93247293BE004EDA98 /* [567]Permutation in String.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[567]Permutation in String.swift"; sourceTree = "<group>"; };
+		21399A952472CE8A004EDA98 /* [1431]Kids With the Greatest Number of Candies.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[1431]Kids With the Greatest Number of Candies.swift"; sourceTree = "<group>"; };
 		2143CBC1247254E700187324 /* [1]Two Sum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[1]Two Sum.swift"; sourceTree = "<group>"; };
 		2143CBC32472585E00187324 /* [7]Reverse Integer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[7]Reverse Integer.swift"; sourceTree = "<group>"; };
 		2143CBC52472590800187324 /* [9]Palindrome Number.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[9]Palindrome Number.swift"; sourceTree = "<group>"; };
@@ -174,6 +178,7 @@
 				2143CBD72472674C00187324 /* [1108]Defanging an IP Address.swift */,
 				2143CBD5247266ED00187324 /* [1207]Unique Number Of Occurrences.swift */,
 				2143CBD32472667A00187324 /* [1221]Split a String in Balanced Strings.swift */,
+				21399A952472CE8A004EDA98 /* [1431]Kids With the Greatest Number of Candies.swift */,
 			);
 			path = Easy;
 			sourceTree = "<group>";
@@ -185,6 +190,7 @@
 				21FF209B244DF52300B81EDB /* [49]Group Anagrams.swift */,
 				215CADB9244ED92600F16D22 /* [238]Product of Array Except Self.swift */,
 				21B0814224515F9700B0AE66 /* [525]Contiguous Array.swift */,
+				21399A93247293BE004EDA98 /* [567]Permutation in String.swift */,
 			);
 			path = Medium;
 			sourceTree = "<group>";
@@ -263,6 +269,7 @@
 				2143CBE6247287E100187324 /* [278]First Bad Version.swift in Sources */,
 				21B0814B2451BE8600B0AE66 /* [543]Diameter of Binary Tree.swift in Sources */,
 				21FF20A0244DFC6600B81EDB /* [1046]Last Stone Weight.swift in Sources */,
+				21399A962472CE8A004EDA98 /* [1431]Kids With the Greatest Number of Candies.swift in Sources */,
 				2143CBE2247270B700187324 /* [784]Letter Case Permutation.swift in Sources */,
 				2143CBDC2472687000187324 /* [28]Implement strStr().swift in Sources */,
 				21FF209E244DF9FD00B81EDB /* [122]Best Time to Buy and Sell Stock II.swift in Sources */,
@@ -288,6 +295,7 @@
 				21FF2092244DDDAC00B81EDB /* [136]Single Number.swift in Sources */,
 				2143CBCA24725F9D00187324 /* [14]Longest Common Prefix.swift in Sources */,
 				2143CBC2247254E700187324 /* [1]Two Sum.swift in Sources */,
+				21399A94247293BE004EDA98 /* [567]Permutation in String.swift in Sources */,
 				21B08145245175C300B0AE66 /* [155]Min Stack.swift in Sources */,
 				2143CBCC2472632600187324 /* [20]Valid Parentheses.swift in Sources */,
 				21FF2095244DE21200B81EDB /* [202]Happy Number.swift in Sources */,
