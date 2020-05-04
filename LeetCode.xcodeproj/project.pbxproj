@@ -10,6 +10,7 @@
 		21399A9224728EF3004EDA98 /* [383]Ransom Note.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21399A9124728EF3004EDA98 /* [383]Ransom Note.swift */; };
 		21399A94247293BE004EDA98 /* [567]Permutation in String.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21399A93247293BE004EDA98 /* [567]Permutation in String.swift */; };
 		21399A962472CE8A004EDA98 /* [1431]Kids With the Greatest Number of Candies.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21399A952472CE8A004EDA98 /* [1431]Kids With the Greatest Number of Candies.swift */; };
+		21399A982472CFB8004EDA98 /* [476]Number Complement.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21399A972472CFB8004EDA98 /* [476]Number Complement.swift */; };
 		2143CBC2247254E700187324 /* [1]Two Sum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2143CBC1247254E700187324 /* [1]Two Sum.swift */; };
 		2143CBC42472585E00187324 /* [7]Reverse Integer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2143CBC32472585E00187324 /* [7]Reverse Integer.swift */; };
 		2143CBC62472590800187324 /* [9]Palindrome Number.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2143CBC52472590800187324 /* [9]Palindrome Number.swift */; };
@@ -66,6 +67,7 @@
 		21399A9124728EF3004EDA98 /* [383]Ransom Note.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[383]Ransom Note.swift"; sourceTree = "<group>"; };
 		21399A93247293BE004EDA98 /* [567]Permutation in String.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[567]Permutation in String.swift"; sourceTree = "<group>"; };
 		21399A952472CE8A004EDA98 /* [1431]Kids With the Greatest Number of Candies.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[1431]Kids With the Greatest Number of Candies.swift"; sourceTree = "<group>"; };
+		21399A972472CFB8004EDA98 /* [476]Number Complement.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[476]Number Complement.swift"; sourceTree = "<group>"; };
 		2143CBC1247254E700187324 /* [1]Two Sum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[1]Two Sum.swift"; sourceTree = "<group>"; };
 		2143CBC32472585E00187324 /* [7]Reverse Integer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[7]Reverse Integer.swift"; sourceTree = "<group>"; };
 		2143CBC52472590800187324 /* [9]Palindrome Number.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[9]Palindrome Number.swift"; sourceTree = "<group>"; };
@@ -166,6 +168,7 @@
 				21FF2098244DF32100B81EDB /* [283]Move Zeroes.swift */,
 				2143CBE3247281B200187324 /* [374]Guess Number Higher or Lower.swift */,
 				21399A9124728EF3004EDA98 /* [383]Ransom Note.swift */,
+				21399A972472CFB8004EDA98 /* [476]Number Complement.swift */,
 				21B0814A2451BE8600B0AE66 /* [543]Diameter of Binary Tree.swift */,
 				2143CBCD2472647500187324 /* [617]Merge Two Binary Trees.swift */,
 				2143CBCF2472652500187324 /* [709]To Lower Case.swift */,
@@ -269,6 +272,7 @@
 				2143CBE6247287E100187324 /* [278]First Bad Version.swift in Sources */,
 				21B0814B2451BE8600B0AE66 /* [543]Diameter of Binary Tree.swift in Sources */,
 				21FF20A0244DFC6600B81EDB /* [1046]Last Stone Weight.swift in Sources */,
+				21399A982472CFB8004EDA98 /* [476]Number Complement.swift in Sources */,
 				21399A962472CE8A004EDA98 /* [1431]Kids With the Greatest Number of Candies.swift in Sources */,
 				2143CBE2247270B700187324 /* [784]Letter Case Permutation.swift in Sources */,
 				2143CBDC2472687000187324 /* [28]Implement strStr().swift in Sources */,

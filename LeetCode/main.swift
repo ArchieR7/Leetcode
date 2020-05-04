@@ -11,5 +11,5 @@ import Foundation
 struct Easy {}
 struct Medium {}
 
-let result = Easy.canConstruct("aa", "ab")
+let result = Easy.findComplement(5)
 print(result)
