@@ -11,5 +11,5 @@ import Foundation
 struct Easy {}
 struct Medium {}
 
-let result = Easy.findComplement(5)
+let result = Easy.firstUniqChar("")
 print(result)
