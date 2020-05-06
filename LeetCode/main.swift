@@ -11,5 +11,5 @@ import Foundation
 struct Easy {}
 struct Medium {}
 
-let result = Easy.firstUniqChar("")
+let result = Easy.checkStraightLine([[1,-8],[2,-3],[1,2]])
 print(result)
