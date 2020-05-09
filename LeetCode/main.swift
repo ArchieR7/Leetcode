@@ -11,5 +11,5 @@ import Foundation
 struct Easy {}
 struct Medium {}
 
-let result = Easy.checkStraightLine([[1,-8],[2,-3],[1,2]])
+let result = Easy.isPerfectSquare(16)
 print(result)

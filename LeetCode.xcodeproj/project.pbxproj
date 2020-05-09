@@ -15,6 +15,7 @@
 		21399A9C2472D66D004EDA98 /* [169]Majority Element.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21399A9B2472D66D004EDA98 /* [169]Majority Element.swift */; };
 		21399A9E2472D73B004EDA98 /* [993]Cousins in Binary Tree.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21399A9D2472D73B004EDA98 /* [993]Cousins in Binary Tree.swift */; };
 		21399AA02472D9D8004EDA98 /* [1232]Check If It Is a Straight Line.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21399A9F2472D9D8004EDA98 /* [1232]Check If It Is a Straight Line.swift */; };
+		21399AA22473537A004EDA98 /* [367]Valid Perfect Square.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21399AA12473537A004EDA98 /* [367]Valid Perfect Square.swift */; };
 		2143CBC2247254E700187324 /* [1]Two Sum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2143CBC1247254E700187324 /* [1]Two Sum.swift */; };
 		2143CBC42472585E00187324 /* [7]Reverse Integer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2143CBC32472585E00187324 /* [7]Reverse Integer.swift */; };
 		2143CBC62472590800187324 /* [9]Palindrome Number.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2143CBC52472590800187324 /* [9]Palindrome Number.swift */; };
@@ -76,6 +77,7 @@
 		21399A9B2472D66D004EDA98 /* [169]Majority Element.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[169]Majority Element.swift"; sourceTree = "<group>"; };
 		21399A9D2472D73B004EDA98 /* [993]Cousins in Binary Tree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[993]Cousins in Binary Tree.swift"; sourceTree = "<group>"; };
 		21399A9F2472D9D8004EDA98 /* [1232]Check If It Is a Straight Line.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[1232]Check If It Is a Straight Line.swift"; sourceTree = "<group>"; };
+		21399AA12473537A004EDA98 /* [367]Valid Perfect Square.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[367]Valid Perfect Square.swift"; sourceTree = "<group>"; };
 		2143CBC1247254E700187324 /* [1]Two Sum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[1]Two Sum.swift"; sourceTree = "<group>"; };
 		2143CBC32472585E00187324 /* [7]Reverse Integer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[7]Reverse Integer.swift"; sourceTree = "<group>"; };
 		2143CBC52472590800187324 /* [9]Palindrome Number.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[9]Palindrome Number.swift"; sourceTree = "<group>"; };
@@ -175,6 +177,7 @@
 				21FF2094244DE21200B81EDB /* [202]Happy Number.swift */,
 				2143CBE5247287E100187324 /* [278]First Bad Version.swift */,
 				21FF2098244DF32100B81EDB /* [283]Move Zeroes.swift */,
+				21399AA12473537A004EDA98 /* [367]Valid Perfect Square.swift */,
 				2143CBE3247281B200187324 /* [374]Guess Number Higher or Lower.swift */,
 				21399A9124728EF3004EDA98 /* [383]Ransom Note.swift */,
 				21399A992472D2E6004EDA98 /* [387]First Unique Character in a String.swift */,
@@ -303,6 +306,7 @@
 				21B52608244ED7F50010B1AE /* [33]Search in Rotated Sorted Array.swift in Sources */,
 				2143CBE4247281B200187324 /* [374]Guess Number Higher or Lower.swift in Sources */,
 				2143CBC62472590800187324 /* [9]Palindrome Number.swift in Sources */,
+				21399AA22473537A004EDA98 /* [367]Valid Perfect Square.swift in Sources */,
 				21B0814724517C1700B0AE66 /* [844]Backspace String Compare.swift in Sources */,
 				21FF20A5244E0C3100B81EDB /* Counting Elements.swift in Sources */,
 				2143CBC824725A8700187324 /* [13]Roman to Integer.swift in Sources */,
