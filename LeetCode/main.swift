@@ -11,5 +11,5 @@ import Foundation
 struct Easy {}
 struct Medium {}
 
-let result = Easy.isPerfectSquare(16)
+let result = Easy.findJudge(4, [[1,3],[1,4],[2,3],[2,4],[4,3]])
 print(result)
