@@ -11,5 +11,5 @@ import Foundation
 struct Easy {}
 struct Medium {}
 
-let result = Easy.floodFill([[0,0,0],[0,1,1]], 1, 1, 1)
+let result = Medium.singleNonDuplicate([3,3,7,7,10,11,11])
 print(result)
