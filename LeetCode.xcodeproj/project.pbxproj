@@ -19,6 +19,7 @@
 		21399AA424735F18004EDA98 /* [997]Find the Town Judge.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21399AA324735F18004EDA98 /* [997]Find the Town Judge.swift */; };
 		21399AA624736269004EDA98 /* [733]Flood Fill.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21399AA524736269004EDA98 /* [733]Flood Fill.swift */; };
 		21399AA824736800004EDA98 /* [540]Single Element in a Sorted Array.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21399AA724736800004EDA98 /* [540]Single Element in a Sorted Array.swift */; };
+		21399AAA247368E1004EDA98 /* [402]Remove K Digits.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21399AA9247368E1004EDA98 /* [402]Remove K Digits.swift */; };
 		2143CBC2247254E700187324 /* [1]Two Sum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2143CBC1247254E700187324 /* [1]Two Sum.swift */; };
 		2143CBC42472585E00187324 /* [7]Reverse Integer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2143CBC32472585E00187324 /* [7]Reverse Integer.swift */; };
 		2143CBC62472590800187324 /* [9]Palindrome Number.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2143CBC52472590800187324 /* [9]Palindrome Number.swift */; };
@@ -84,6 +85,7 @@
 		21399AA324735F18004EDA98 /* [997]Find the Town Judge.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[997]Find the Town Judge.swift"; sourceTree = "<group>"; };
 		21399AA524736269004EDA98 /* [733]Flood Fill.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[733]Flood Fill.swift"; sourceTree = "<group>"; };
 		21399AA724736800004EDA98 /* [540]Single Element in a Sorted Array.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[540]Single Element in a Sorted Array.swift"; sourceTree = "<group>"; };
+		21399AA9247368E1004EDA98 /* [402]Remove K Digits.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[402]Remove K Digits.swift"; sourceTree = "<group>"; };
 		2143CBC1247254E700187324 /* [1]Two Sum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[1]Two Sum.swift"; sourceTree = "<group>"; };
 		2143CBC32472585E00187324 /* [7]Reverse Integer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[7]Reverse Integer.swift"; sourceTree = "<group>"; };
 		2143CBC52472590800187324 /* [9]Palindrome Number.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[9]Palindrome Number.swift"; sourceTree = "<group>"; };
@@ -215,6 +217,7 @@
 				21B52607244ED7F50010B1AE /* [33]Search in Rotated Sorted Array.swift */,
 				21FF209B244DF52300B81EDB /* [49]Group Anagrams.swift */,
 				215CADB9244ED92600F16D22 /* [238]Product of Array Except Self.swift */,
+				21399AA9247368E1004EDA98 /* [402]Remove K Digits.swift */,
 				21B0814224515F9700B0AE66 /* [525]Contiguous Array.swift */,
 				21399AA724736800004EDA98 /* [540]Single Element in a Sorted Array.swift */,
 				21399A93247293BE004EDA98 /* [567]Permutation in String.swift */,
@@ -323,6 +326,7 @@
 				21FF20A2244E086700B81EDB /* Perform String Shifts.swift in Sources */,
 				21B081492451BE3200B0AE66 /* TreeNode.swift in Sources */,
 				2143CBD6247266ED00187324 /* [1207]Unique Number Of Occurrences.swift in Sources */,
+				21399AAA247368E1004EDA98 /* [402]Remove K Digits.swift in Sources */,
 				215CADBA244ED92600F16D22 /* [238]Product of Array Except Self.swift in Sources */,
 				21FF2092244DDDAC00B81EDB /* [136]Single Number.swift in Sources */,
 				21399AA624736269004EDA98 /* [733]Flood Fill.swift in Sources */,
