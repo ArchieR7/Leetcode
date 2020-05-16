@@ -22,6 +22,8 @@
 		21399AAA247368E1004EDA98 /* [402]Remove K Digits.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21399AA9247368E1004EDA98 /* [402]Remove K Digits.swift */; };
 		21399AAC24737B2A004EDA98 /* [208]Implement Trie (Prefix Tree).swift in Sources */ = {isa = PBXBuildFile; fileRef = 21399AAB24737B2A004EDA98 /* [208]Implement Trie (Prefix Tree).swift */; };
 		21399AAE247386BD004EDA98 /* [918]Maximum Sum Circular Subarray.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21399AAD247386BD004EDA98 /* [918]Maximum Sum Circular Subarray.swift */; };
+		21399AB02473C53A004EDA98 /* [328]Odd Even Linked List.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21399AAF2473C53A004EDA98 /* [328]Odd Even Linked List.swift */; };
+		21399AB2247444A6004EDA98 /* [901]Online Stock Span.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21399AB1247444A6004EDA98 /* [901]Online Stock Span.swift */; };
 		2143CBC2247254E700187324 /* [1]Two Sum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2143CBC1247254E700187324 /* [1]Two Sum.swift */; };
 		2143CBC42472585E00187324 /* [7]Reverse Integer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2143CBC32472585E00187324 /* [7]Reverse Integer.swift */; };
 		2143CBC62472590800187324 /* [9]Palindrome Number.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2143CBC52472590800187324 /* [9]Palindrome Number.swift */; };
@@ -90,6 +92,8 @@
 		21399AA9247368E1004EDA98 /* [402]Remove K Digits.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[402]Remove K Digits.swift"; sourceTree = "<group>"; };
 		21399AAB24737B2A004EDA98 /* [208]Implement Trie (Prefix Tree).swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[208]Implement Trie (Prefix Tree).swift"; sourceTree = "<group>"; };
 		21399AAD247386BD004EDA98 /* [918]Maximum Sum Circular Subarray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[918]Maximum Sum Circular Subarray.swift"; sourceTree = "<group>"; };
+		21399AAF2473C53A004EDA98 /* [328]Odd Even Linked List.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[328]Odd Even Linked List.swift"; sourceTree = "<group>"; };
+		21399AB1247444A6004EDA98 /* [901]Online Stock Span.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[901]Online Stock Span.swift"; sourceTree = "<group>"; };
 		2143CBC1247254E700187324 /* [1]Two Sum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[1]Two Sum.swift"; sourceTree = "<group>"; };
 		2143CBC32472585E00187324 /* [7]Reverse Integer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[7]Reverse Integer.swift"; sourceTree = "<group>"; };
 		2143CBC52472590800187324 /* [9]Palindrome Number.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[9]Palindrome Number.swift"; sourceTree = "<group>"; };
@@ -222,11 +226,13 @@
 				21FF209B244DF52300B81EDB /* [49]Group Anagrams.swift */,
 				21399AAB24737B2A004EDA98 /* [208]Implement Trie (Prefix Tree).swift */,
 				215CADB9244ED92600F16D22 /* [238]Product of Array Except Self.swift */,
+				21399AAF2473C53A004EDA98 /* [328]Odd Even Linked List.swift */,
 				21399AA9247368E1004EDA98 /* [402]Remove K Digits.swift */,
 				21B0814224515F9700B0AE66 /* [525]Contiguous Array.swift */,
 				21399AA724736800004EDA98 /* [540]Single Element in a Sorted Array.swift */,
 				21399A93247293BE004EDA98 /* [567]Permutation in String.swift */,
 				21399AAD247386BD004EDA98 /* [918]Maximum Sum Circular Subarray.swift */,
+				21399AB1247444A6004EDA98 /* [901]Online Stock Span.swift */,
 			);
 			path = Medium;
 			sourceTree = "<group>";
@@ -316,9 +322,11 @@
 				21399A9C2472D66D004EDA98 /* [169]Majority Element.swift in Sources */,
 				2143CBC42472585E00187324 /* [7]Reverse Integer.swift in Sources */,
 				21FF2099244DF32100B81EDB /* [283]Move Zeroes.swift in Sources */,
+				21399AB2247444A6004EDA98 /* [901]Online Stock Span.swift in Sources */,
 				2143CBDA247267B500187324 /* [867]Transpose Matrix.swift in Sources */,
 				2143CBD02472652500187324 /* [709]To Lower Case.swift in Sources */,
 				2143CBD82472674C00187324 /* [1108]Defanging an IP Address.swift in Sources */,
+				21399AB02473C53A004EDA98 /* [328]Odd Even Linked List.swift in Sources */,
 				215CADBC244F35B700F16D22 /* Number of Islands.swift in Sources */,
 				2143CBCE2472647500187324 /* [617]Merge Two Binary Trees.swift in Sources */,
 				21FF2097244DE33D00B81EDB /* [53]Maximum Subarray.swift in Sources */,

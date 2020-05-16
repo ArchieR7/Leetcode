@@ -12,33 +12,36 @@ struct Easy {}
 struct Medium {}
 
 /*
- ["Trie","insert","insert","insert","insert","insert","insert","search","search","search","search","search","search","search","search","search","startsWith","startsWith","startsWith","startsWith","startsWith","startsWith","startsWith","startsWith","startsWith"]
- [[],["app"],["apple"],["beer"],["add"],["jam"],["rental"],["apps"],["app"],["ad"],["applepie"],["rest"],["jan"],["rent"],["beer"],["jam"],["apps"],["app"],["ad"],["applepie"],["rest"],["jan"],["rent"],["beer"],["jam"]]
- */
+let node = ListNode(1)
+node.next = ListNode(2)
+node.next?.next = ListNode(3)
+node.next?.next?.next = ListNode(4)
+node.next?.next?.next?.next = ListNode(5)
+node.next?.next?.next?.next?.next = ListNode(6)
+node.next?.next?.next?.next?.next?.next = ListNode(7)
+//node.next?.next?.next?.next?.next?.next?.next = ListNode(8)
 
-let trie = Medium.Trie()
-trie.insert("app")
-trie.insert("apple")
-trie.insert("beer")
-trie.insert("add")
-trie.insert("jam")
-trie.insert("rental")
-print(trie.search("apps"))
-print(trie.search("app"))
-print(trie.search("ad"))
-print(trie.search("applepie"))
-print(trie.search("rest"))
-print(trie.search("jan"))
-print(trie.search("rent"))
-print(trie.search("beer"))
-print(trie.search("jam"))
-print(trie.startsWith("apps"))
-print(trie.startsWith("app"))
-print(trie.startsWith("ad"))
-print(trie.startsWith("applepie"))
-print(trie.startsWith("rest"))
-print(trie.startsWith("jan"))
-print(trie.startsWith("rent"))
-print(trie.startsWith("beer"))
-print(trie.startsWith("jam"))
+var target: ListNode? = node
 
+Medium.oddEvenList(node)
+
+while target != nil {
+    print(target?.val)
+    target = target?.next
+}
+*/
+
+let spaner: Medium.StockSpanner = Medium.StockSpanner()
+//print(spaner.next(100))
+//print(spaner.next(80))
+//print(spaner.next(60))
+//print(spaner.next(70))
+//print(spaner.next(60))
+//print(spaner.next(75))
+//print(spaner.next(85))
+
+print(spaner.next(31))
+print(spaner.next(41))
+print(spaner.next(48))
+print(spaner.next(59))
+print(spaner.next(79))
