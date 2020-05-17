@@ -231,8 +231,8 @@
 				21B0814224515F9700B0AE66 /* [525]Contiguous Array.swift */,
 				21399AA724736800004EDA98 /* [540]Single Element in a Sorted Array.swift */,
 				21399A93247293BE004EDA98 /* [567]Permutation in String.swift */,
-				21399AAD247386BD004EDA98 /* [918]Maximum Sum Circular Subarray.swift */,
 				21399AB1247444A6004EDA98 /* [901]Online Stock Span.swift */,
+				21399AAD247386BD004EDA98 /* [918]Maximum Sum Circular Subarray.swift */,
 			);
 			path = Medium;
 			sourceTree = "<group>";
