@@ -23,17 +23,17 @@ extension Medium {
     static func oddEvenList(_ head: ListNode?) -> ListNode? {
         var target: ListNode? = head
         let even: ListNode? = head?.next
-        var canEven: Bool = true
+        var isEven: Bool = false
         while target != nil {
             let next: ListNode? = target?.next
             if let nextNext: ListNode = target?.next?.next {
                 target?.next = nextNext
-            } else if canEven {
-                target?.next = even
-                canEven = false
-            } else {
+            } else if isEven {
                 target?.next = nil
+            } else {
+                target?.next = even
             }
+            isEven = isEven == false
             target = next
         }
         return head
