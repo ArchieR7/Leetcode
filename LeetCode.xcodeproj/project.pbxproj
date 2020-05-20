@@ -27,6 +27,7 @@
 		21399AB4247517CE004EDA98 /* [438]Find All Anagrams in a String.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21399AB3247517CE004EDA98 /* [438]Find All Anagrams in a String.swift */; };
 		21399AB6247586DE004EDA98 /* [230]Kth Smallest Element in a BST.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21399AB5247586DE004EDA98 /* [230]Kth Smallest Element in a BST.swift */; };
 		21399AB824758AF7004EDA98 /* [485]Max Consecutive Ones.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21399AB724758AF7004EDA98 /* [485]Max Consecutive Ones.swift */; };
+		21399ABA24758B35004EDA98 /* [1295]Find Numbers with Even Number of Digits.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21399AB924758B35004EDA98 /* [1295]Find Numbers with Even Number of Digits.swift */; };
 		2143CBC2247254E700187324 /* [1]Two Sum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2143CBC1247254E700187324 /* [1]Two Sum.swift */; };
 		2143CBC42472585E00187324 /* [7]Reverse Integer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2143CBC32472585E00187324 /* [7]Reverse Integer.swift */; };
 		2143CBC62472590800187324 /* [9]Palindrome Number.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2143CBC52472590800187324 /* [9]Palindrome Number.swift */; };
@@ -100,6 +101,7 @@
 		21399AB3247517CE004EDA98 /* [438]Find All Anagrams in a String.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[438]Find All Anagrams in a String.swift"; sourceTree = "<group>"; };
 		21399AB5247586DE004EDA98 /* [230]Kth Smallest Element in a BST.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[230]Kth Smallest Element in a BST.swift"; sourceTree = "<group>"; };
 		21399AB724758AF7004EDA98 /* [485]Max Consecutive Ones.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[485]Max Consecutive Ones.swift"; sourceTree = "<group>"; };
+		21399AB924758B35004EDA98 /* [1295]Find Numbers with Even Number of Digits.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[1295]Find Numbers with Even Number of Digits.swift"; sourceTree = "<group>"; };
 		2143CBC1247254E700187324 /* [1]Two Sum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[1]Two Sum.swift"; sourceTree = "<group>"; };
 		2143CBC32472585E00187324 /* [7]Reverse Integer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[7]Reverse Integer.swift"; sourceTree = "<group>"; };
 		2143CBC52472590800187324 /* [9]Palindrome Number.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[9]Palindrome Number.swift"; sourceTree = "<group>"; };
@@ -204,6 +206,7 @@
 				21399A9124728EF3004EDA98 /* [383]Ransom Note.swift */,
 				21399A992472D2E6004EDA98 /* [387]First Unique Character in a String.swift */,
 				21399A972472CFB8004EDA98 /* [476]Number Complement.swift */,
+				21399AB724758AF7004EDA98 /* [485]Max Consecutive Ones.swift */,
 				21B0814A2451BE8600B0AE66 /* [543]Diameter of Binary Tree.swift */,
 				2143CBCD2472647500187324 /* [617]Merge Two Binary Trees.swift */,
 				2143CBCF2472652500187324 /* [709]To Lower Case.swift */,
@@ -221,7 +224,7 @@
 				2143CBD32472667A00187324 /* [1221]Split a String in Balanced Strings.swift */,
 				21399A9F2472D9D8004EDA98 /* [1232]Check If It Is a Straight Line.swift */,
 				21399A952472CE8A004EDA98 /* [1431]Kids With the Greatest Number of Candies.swift */,
-				21399AB724758AF7004EDA98 /* [485]Max Consecutive Ones.swift */,
+				21399AB924758B35004EDA98 /* [1295]Find Numbers with Even Number of Digits.swift */,
 			);
 			path = Easy;
 			sourceTree = "<group>";
@@ -365,6 +368,7 @@
 				21B08145245175C300B0AE66 /* [155]Min Stack.swift in Sources */,
 				21399A9E2472D73B004EDA98 /* [993]Cousins in Binary Tree.swift in Sources */,
 				2143CBCC2472632600187324 /* [20]Valid Parentheses.swift in Sources */,
+				21399ABA24758B35004EDA98 /* [1295]Find Numbers with Even Number of Digits.swift in Sources */,
 				21FF2095244DE21200B81EDB /* [202]Happy Number.swift in Sources */,
 				21FF208B244DDD4500B81EDB /* main.swift in Sources */,
 				21FF209C244DF52300B81EDB /* [49]Group Anagrams.swift in Sources */,
