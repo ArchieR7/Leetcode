@@ -26,6 +26,7 @@
 		21399AB2247444A6004EDA98 /* [901]Online Stock Span.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21399AB1247444A6004EDA98 /* [901]Online Stock Span.swift */; };
 		21399AB4247517CE004EDA98 /* [438]Find All Anagrams in a String.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21399AB3247517CE004EDA98 /* [438]Find All Anagrams in a String.swift */; };
 		21399AB6247586DE004EDA98 /* [230]Kth Smallest Element in a BST.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21399AB5247586DE004EDA98 /* [230]Kth Smallest Element in a BST.swift */; };
+		21399AB824758AF7004EDA98 /* [485]Max Consecutive Ones.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21399AB724758AF7004EDA98 /* [485]Max Consecutive Ones.swift */; };
 		2143CBC2247254E700187324 /* [1]Two Sum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2143CBC1247254E700187324 /* [1]Two Sum.swift */; };
 		2143CBC42472585E00187324 /* [7]Reverse Integer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2143CBC32472585E00187324 /* [7]Reverse Integer.swift */; };
 		2143CBC62472590800187324 /* [9]Palindrome Number.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2143CBC52472590800187324 /* [9]Palindrome Number.swift */; };
@@ -98,6 +99,7 @@
 		21399AB1247444A6004EDA98 /* [901]Online Stock Span.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[901]Online Stock Span.swift"; sourceTree = "<group>"; };
 		21399AB3247517CE004EDA98 /* [438]Find All Anagrams in a String.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[438]Find All Anagrams in a String.swift"; sourceTree = "<group>"; };
 		21399AB5247586DE004EDA98 /* [230]Kth Smallest Element in a BST.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[230]Kth Smallest Element in a BST.swift"; sourceTree = "<group>"; };
+		21399AB724758AF7004EDA98 /* [485]Max Consecutive Ones.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[485]Max Consecutive Ones.swift"; sourceTree = "<group>"; };
 		2143CBC1247254E700187324 /* [1]Two Sum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[1]Two Sum.swift"; sourceTree = "<group>"; };
 		2143CBC32472585E00187324 /* [7]Reverse Integer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[7]Reverse Integer.swift"; sourceTree = "<group>"; };
 		2143CBC52472590800187324 /* [9]Palindrome Number.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[9]Palindrome Number.swift"; sourceTree = "<group>"; };
@@ -219,6 +221,7 @@
 				2143CBD32472667A00187324 /* [1221]Split a String in Balanced Strings.swift */,
 				21399A9F2472D9D8004EDA98 /* [1232]Check If It Is a Straight Line.swift */,
 				21399A952472CE8A004EDA98 /* [1431]Kids With the Greatest Number of Candies.swift */,
+				21399AB724758AF7004EDA98 /* [485]Max Consecutive Ones.swift */,
 			);
 			path = Easy;
 			sourceTree = "<group>";
@@ -338,6 +341,7 @@
 				2143CBCE2472647500187324 /* [617]Merge Two Binary Trees.swift in Sources */,
 				21FF2097244DE33D00B81EDB /* [53]Maximum Subarray.swift in Sources */,
 				21B52608244ED7F50010B1AE /* [33]Search in Rotated Sorted Array.swift in Sources */,
+				21399AB824758AF7004EDA98 /* [485]Max Consecutive Ones.swift in Sources */,
 				2143CBE4247281B200187324 /* [374]Guess Number Higher or Lower.swift in Sources */,
 				21399AA824736800004EDA98 /* [540]Single Element in a Sorted Array.swift in Sources */,
 				2143CBC62472590800187324 /* [9]Palindrome Number.swift in Sources */,
