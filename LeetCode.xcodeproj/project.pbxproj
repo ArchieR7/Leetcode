@@ -28,6 +28,7 @@
 		21399AB6247586DE004EDA98 /* [230]Kth Smallest Element in a BST.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21399AB5247586DE004EDA98 /* [230]Kth Smallest Element in a BST.swift */; };
 		21399AB824758AF7004EDA98 /* [485]Max Consecutive Ones.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21399AB724758AF7004EDA98 /* [485]Max Consecutive Ones.swift */; };
 		21399ABA24758B35004EDA98 /* [1295]Find Numbers with Even Number of Digits.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21399AB924758B35004EDA98 /* [1295]Find Numbers with Even Number of Digits.swift */; };
+		21399ABC24758BF9004EDA98 /* [977]Squares of a Sorted Array.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21399ABB24758BF9004EDA98 /* [977]Squares of a Sorted Array.swift */; };
 		2143CBC2247254E700187324 /* [1]Two Sum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2143CBC1247254E700187324 /* [1]Two Sum.swift */; };
 		2143CBC42472585E00187324 /* [7]Reverse Integer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2143CBC32472585E00187324 /* [7]Reverse Integer.swift */; };
 		2143CBC62472590800187324 /* [9]Palindrome Number.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2143CBC52472590800187324 /* [9]Palindrome Number.swift */; };
@@ -102,6 +103,7 @@
 		21399AB5247586DE004EDA98 /* [230]Kth Smallest Element in a BST.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[230]Kth Smallest Element in a BST.swift"; sourceTree = "<group>"; };
 		21399AB724758AF7004EDA98 /* [485]Max Consecutive Ones.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[485]Max Consecutive Ones.swift"; sourceTree = "<group>"; };
 		21399AB924758B35004EDA98 /* [1295]Find Numbers with Even Number of Digits.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[1295]Find Numbers with Even Number of Digits.swift"; sourceTree = "<group>"; };
+		21399ABB24758BF9004EDA98 /* [977]Squares of a Sorted Array.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[977]Squares of a Sorted Array.swift"; sourceTree = "<group>"; };
 		2143CBC1247254E700187324 /* [1]Two Sum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[1]Two Sum.swift"; sourceTree = "<group>"; };
 		2143CBC32472585E00187324 /* [7]Reverse Integer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[7]Reverse Integer.swift"; sourceTree = "<group>"; };
 		2143CBC52472590800187324 /* [9]Palindrome Number.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[9]Palindrome Number.swift"; sourceTree = "<group>"; };
@@ -223,8 +225,9 @@
 				2143CBD5247266ED00187324 /* [1207]Unique Number Of Occurrences.swift */,
 				2143CBD32472667A00187324 /* [1221]Split a String in Balanced Strings.swift */,
 				21399A9F2472D9D8004EDA98 /* [1232]Check If It Is a Straight Line.swift */,
-				21399A952472CE8A004EDA98 /* [1431]Kids With the Greatest Number of Candies.swift */,
 				21399AB924758B35004EDA98 /* [1295]Find Numbers with Even Number of Digits.swift */,
+				21399A952472CE8A004EDA98 /* [1431]Kids With the Greatest Number of Candies.swift */,
+				21399ABB24758BF9004EDA98 /* [977]Squares of a Sorted Array.swift */,
 			);
 			path = Easy;
 			sourceTree = "<group>";
@@ -342,6 +345,7 @@
 				21399AB02473C53A004EDA98 /* [328]Odd Even Linked List.swift in Sources */,
 				215CADBC244F35B700F16D22 /* Number of Islands.swift in Sources */,
 				2143CBCE2472647500187324 /* [617]Merge Two Binary Trees.swift in Sources */,
+				21399ABC24758BF9004EDA98 /* [977]Squares of a Sorted Array.swift in Sources */,
 				21FF2097244DE33D00B81EDB /* [53]Maximum Subarray.swift in Sources */,
 				21B52608244ED7F50010B1AE /* [33]Search in Rotated Sorted Array.swift in Sources */,
 				21399AB824758AF7004EDA98 /* [485]Max Consecutive Ones.swift in Sources */,
