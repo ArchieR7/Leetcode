@@ -25,6 +25,7 @@
 		21399AB02473C53A004EDA98 /* [328]Odd Even Linked List.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21399AAF2473C53A004EDA98 /* [328]Odd Even Linked List.swift */; };
 		21399AB2247444A6004EDA98 /* [901]Online Stock Span.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21399AB1247444A6004EDA98 /* [901]Online Stock Span.swift */; };
 		21399AB4247517CE004EDA98 /* [438]Find All Anagrams in a String.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21399AB3247517CE004EDA98 /* [438]Find All Anagrams in a String.swift */; };
+		21399AB6247586DE004EDA98 /* [230]Kth Smallest Element in a BST.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21399AB5247586DE004EDA98 /* [230]Kth Smallest Element in a BST.swift */; };
 		2143CBC2247254E700187324 /* [1]Two Sum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2143CBC1247254E700187324 /* [1]Two Sum.swift */; };
 		2143CBC42472585E00187324 /* [7]Reverse Integer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2143CBC32472585E00187324 /* [7]Reverse Integer.swift */; };
 		2143CBC62472590800187324 /* [9]Palindrome Number.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2143CBC52472590800187324 /* [9]Palindrome Number.swift */; };
@@ -96,6 +97,7 @@
 		21399AAF2473C53A004EDA98 /* [328]Odd Even Linked List.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[328]Odd Even Linked List.swift"; sourceTree = "<group>"; };
 		21399AB1247444A6004EDA98 /* [901]Online Stock Span.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[901]Online Stock Span.swift"; sourceTree = "<group>"; };
 		21399AB3247517CE004EDA98 /* [438]Find All Anagrams in a String.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[438]Find All Anagrams in a String.swift"; sourceTree = "<group>"; };
+		21399AB5247586DE004EDA98 /* [230]Kth Smallest Element in a BST.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[230]Kth Smallest Element in a BST.swift"; sourceTree = "<group>"; };
 		2143CBC1247254E700187324 /* [1]Two Sum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[1]Two Sum.swift"; sourceTree = "<group>"; };
 		2143CBC32472585E00187324 /* [7]Reverse Integer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[7]Reverse Integer.swift"; sourceTree = "<group>"; };
 		2143CBC52472590800187324 /* [9]Palindrome Number.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[9]Palindrome Number.swift"; sourceTree = "<group>"; };
@@ -236,6 +238,7 @@
 				21399A93247293BE004EDA98 /* [567]Permutation in String.swift */,
 				21399AB1247444A6004EDA98 /* [901]Online Stock Span.swift */,
 				21399AAD247386BD004EDA98 /* [918]Maximum Sum Circular Subarray.swift */,
+				21399AB5247586DE004EDA98 /* [230]Kth Smallest Element in a BST.swift */,
 			);
 			path = Medium;
 			sourceTree = "<group>";
@@ -311,6 +314,7 @@
 			files = (
 				21B52606244EC58F0010B1AE /* [876]Middle of the Linked List.swift in Sources */,
 				21B0814324515F9700B0AE66 /* [525]Contiguous Array.swift in Sources */,
+				21399AB6247586DE004EDA98 /* [230]Kth Smallest Element in a BST.swift in Sources */,
 				2143CBE6247287E100187324 /* [278]First Bad Version.swift in Sources */,
 				21B0814B2451BE8600B0AE66 /* [543]Diameter of Binary Tree.swift in Sources */,
 				21FF20A0244DFC6600B81EDB /* [1046]Last Stone Weight.swift in Sources */,
