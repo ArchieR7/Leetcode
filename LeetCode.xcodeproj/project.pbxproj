@@ -30,6 +30,7 @@
 		21399ABA24758B35004EDA98 /* [1295]Find Numbers with Even Number of Digits.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21399AB924758B35004EDA98 /* [1295]Find Numbers with Even Number of Digits.swift */; };
 		21399ABC24758BF9004EDA98 /* [977]Squares of a Sorted Array.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21399ABB24758BF9004EDA98 /* [977]Squares of a Sorted Array.swift */; };
 		21399ABE2477BC47004EDA98 /* [1277]Count Square Submatrices with All Ones.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21399ABD2477BC47004EDA98 /* [1277]Count Square Submatrices with All Ones.swift */; };
+		21399AC02477C01E004EDA98 /* [451]Sort Characters By Frequency.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21399ABF2477C01E004EDA98 /* [451]Sort Characters By Frequency.swift */; };
 		2143CBC2247254E700187324 /* [1]Two Sum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2143CBC1247254E700187324 /* [1]Two Sum.swift */; };
 		2143CBC42472585E00187324 /* [7]Reverse Integer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2143CBC32472585E00187324 /* [7]Reverse Integer.swift */; };
 		2143CBC62472590800187324 /* [9]Palindrome Number.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2143CBC52472590800187324 /* [9]Palindrome Number.swift */; };
@@ -106,6 +107,7 @@
 		21399AB924758B35004EDA98 /* [1295]Find Numbers with Even Number of Digits.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[1295]Find Numbers with Even Number of Digits.swift"; sourceTree = "<group>"; };
 		21399ABB24758BF9004EDA98 /* [977]Squares of a Sorted Array.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[977]Squares of a Sorted Array.swift"; sourceTree = "<group>"; };
 		21399ABD2477BC47004EDA98 /* [1277]Count Square Submatrices with All Ones.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[1277]Count Square Submatrices with All Ones.swift"; sourceTree = "<group>"; };
+		21399ABF2477C01E004EDA98 /* [451]Sort Characters By Frequency.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[451]Sort Characters By Frequency.swift"; sourceTree = "<group>"; };
 		2143CBC1247254E700187324 /* [1]Two Sum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[1]Two Sum.swift"; sourceTree = "<group>"; };
 		2143CBC32472585E00187324 /* [7]Reverse Integer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[7]Reverse Integer.swift"; sourceTree = "<group>"; };
 		2143CBC52472590800187324 /* [9]Palindrome Number.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[9]Palindrome Number.swift"; sourceTree = "<group>"; };
@@ -251,6 +253,7 @@
 				21399AB1247444A6004EDA98 /* [901]Online Stock Span.swift */,
 				21399AAD247386BD004EDA98 /* [918]Maximum Sum Circular Subarray.swift */,
 				21399ABD2477BC47004EDA98 /* [1277]Count Square Submatrices with All Ones.swift */,
+				21399ABF2477C01E004EDA98 /* [451]Sort Characters By Frequency.swift */,
 			);
 			path = Medium;
 			sourceTree = "<group>";
@@ -339,6 +342,7 @@
 				21399AAE247386BD004EDA98 /* [918]Maximum Sum Circular Subarray.swift in Sources */,
 				2143CBE024726BE000187324 /* [38]Count and Say.swift in Sources */,
 				21399A9C2472D66D004EDA98 /* [169]Majority Element.swift in Sources */,
+				21399AC02477C01E004EDA98 /* [451]Sort Characters By Frequency.swift in Sources */,
 				2143CBC42472585E00187324 /* [7]Reverse Integer.swift in Sources */,
 				21FF2099244DF32100B81EDB /* [283]Move Zeroes.swift in Sources */,
 				21399AB2247444A6004EDA98 /* [901]Online Stock Span.swift in Sources */,
