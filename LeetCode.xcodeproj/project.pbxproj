@@ -56,6 +56,7 @@
 		214F191D247CE7E600DAC411 /* [1313]Decompress Run-Length Encoded List.swift in Sources */ = {isa = PBXBuildFile; fileRef = 214F191C247CE7E600DAC411 /* [1313]Decompress Run-Length Encoded List.swift */; };
 		214F191F247CE88600DAC411 /* [1389]Create Target Array in the Given Order.swift in Sources */ = {isa = PBXBuildFile; fileRef = 214F191E247CE88600DAC411 /* [1389]Create Target Array in the Given Order.swift */; };
 		214F1921247CE90700DAC411 /* [1200]Minimum Absolute Difference.swift in Sources */ = {isa = PBXBuildFile; fileRef = 214F1920247CE90700DAC411 /* [1200]Minimum Absolute Difference.swift */; };
+		214F1923247CF2C100DAC411 /* [342]Power of Four.swift in Sources */ = {isa = PBXBuildFile; fileRef = 214F1922247CF2C100DAC411 /* [342]Power of Four.swift */; };
 		215CADBA244ED92600F16D22 /* [238]Product of Array Except Self.swift in Sources */ = {isa = PBXBuildFile; fileRef = 215CADB9244ED92600F16D22 /* [238]Product of Array Except Self.swift */; };
 		215CADBC244F35B700F16D22 /* Number of Islands.swift in Sources */ = {isa = PBXBuildFile; fileRef = 215CADBB244F35B700F16D22 /* Number of Islands.swift */; };
 		21B0814324515F9700B0AE66 /* [525]Contiguous Array.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21B0814224515F9700B0AE66 /* [525]Contiguous Array.swift */; };
@@ -139,6 +140,7 @@
 		214F191C247CE7E600DAC411 /* [1313]Decompress Run-Length Encoded List.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[1313]Decompress Run-Length Encoded List.swift"; sourceTree = "<group>"; };
 		214F191E247CE88600DAC411 /* [1389]Create Target Array in the Given Order.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[1389]Create Target Array in the Given Order.swift"; sourceTree = "<group>"; };
 		214F1920247CE90700DAC411 /* [1200]Minimum Absolute Difference.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[1200]Minimum Absolute Difference.swift"; sourceTree = "<group>"; };
+		214F1922247CF2C100DAC411 /* [342]Power of Four.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[342]Power of Four.swift"; sourceTree = "<group>"; };
 		215CADB9244ED92600F16D22 /* [238]Product of Array Except Self.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[238]Product of Array Except Self.swift"; sourceTree = "<group>"; };
 		215CADBB244F35B700F16D22 /* Number of Islands.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Number of Islands.swift"; sourceTree = "<group>"; };
 		21B0814224515F9700B0AE66 /* [525]Contiguous Array.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[525]Contiguous Array.swift"; sourceTree = "<group>"; };
@@ -250,6 +252,7 @@
 				214F1916247CD57E00DAC411 /* [1365]How Many Numbers Are Smaller Than the Current Number.swift */,
 				214F191E247CE88600DAC411 /* [1389]Create Target Array in the Given Order.swift */,
 				21399A952472CE8A004EDA98 /* [1431]Kids With the Greatest Number of Candies.swift */,
+				214F1922247CF2C100DAC411 /* [342]Power of Four.swift */,
 			);
 			path = Easy;
 			sourceTree = "<group>";
@@ -378,6 +381,7 @@
 				21FF2097244DE33D00B81EDB /* [53]Maximum Subarray.swift in Sources */,
 				21B52608244ED7F50010B1AE /* [33]Search in Rotated Sorted Array.swift in Sources */,
 				21399AB824758AF7004EDA98 /* [485]Max Consecutive Ones.swift in Sources */,
+				214F1923247CF2C100DAC411 /* [342]Power of Four.swift in Sources */,
 				2143CBE4247281B200187324 /* [374]Guess Number Higher or Lower.swift in Sources */,
 				21399AA824736800004EDA98 /* [540]Single Element in a Sorted Array.swift in Sources */,
 				2143CBC62472590800187324 /* [9]Palindrome Number.swift in Sources */,

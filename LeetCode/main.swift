@@ -85,5 +85,15 @@ struct Medium {}
 //print(maxUncrossedLines([1,1,2,1,2], [1,3,2,3,1]))
 //print(maxUncrossedLines([2,5,1,2,5], [10,5,2,1,5,2]))
 
+func isPowerOfFour(_ num: Int) -> Bool {
+    num > 0 && num & (num - 1) == 0 && num % 3 == 1
+}
+print(String(16, radix: 4))
+print(String(4, radix: 4))
+print(String(15, radix: 4))
+print(String(17, radix: 4))
+print(String(64, radix: 4))
+print(isPowerOfFour(16))
+
 let result = Easy.minimumAbsDifference([40, 11, 26, 27, -40])
 print(result)
