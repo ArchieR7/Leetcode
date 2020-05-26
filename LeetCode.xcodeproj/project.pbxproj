@@ -53,6 +53,7 @@
 		214F1917247CD57E00DAC411 /* [1365]How Many Numbers Are Smaller Than the Current Number.swift in Sources */ = {isa = PBXBuildFile; fileRef = 214F1916247CD57E00DAC411 /* [1365]How Many Numbers Are Smaller Than the Current Number.swift */; };
 		214F1919247CD94400DAC411 /* [1342]Number of Steps to Reduce a Number to Zero.swift in Sources */ = {isa = PBXBuildFile; fileRef = 214F1918247CD94400DAC411 /* [1342]Number of Steps to Reduce a Number to Zero.swift */; };
 		214F191B247CD9B400DAC411 /* [1281]Subtract the Product and Sum of Digits of an Integer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 214F191A247CD9B400DAC411 /* [1281]Subtract the Product and Sum of Digits of an Integer.swift */; };
+		214F191D247CE7E600DAC411 /* [1313]Decompress Run-Length Encoded List.swift in Sources */ = {isa = PBXBuildFile; fileRef = 214F191C247CE7E600DAC411 /* [1313]Decompress Run-Length Encoded List.swift */; };
 		215CADBA244ED92600F16D22 /* [238]Product of Array Except Self.swift in Sources */ = {isa = PBXBuildFile; fileRef = 215CADB9244ED92600F16D22 /* [238]Product of Array Except Self.swift */; };
 		215CADBC244F35B700F16D22 /* Number of Islands.swift in Sources */ = {isa = PBXBuildFile; fileRef = 215CADBB244F35B700F16D22 /* Number of Islands.swift */; };
 		21B0814324515F9700B0AE66 /* [525]Contiguous Array.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21B0814224515F9700B0AE66 /* [525]Contiguous Array.swift */; };
@@ -133,6 +134,7 @@
 		214F1916247CD57E00DAC411 /* [1365]How Many Numbers Are Smaller Than the Current Number.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[1365]How Many Numbers Are Smaller Than the Current Number.swift"; sourceTree = "<group>"; };
 		214F1918247CD94400DAC411 /* [1342]Number of Steps to Reduce a Number to Zero.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[1342]Number of Steps to Reduce a Number to Zero.swift"; sourceTree = "<group>"; };
 		214F191A247CD9B400DAC411 /* [1281]Subtract the Product and Sum of Digits of an Integer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[1281]Subtract the Product and Sum of Digits of an Integer.swift"; sourceTree = "<group>"; };
+		214F191C247CE7E600DAC411 /* [1313]Decompress Run-Length Encoded List.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[1313]Decompress Run-Length Encoded List.swift"; sourceTree = "<group>"; };
 		215CADB9244ED92600F16D22 /* [238]Product of Array Except Self.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[238]Product of Array Except Self.swift"; sourceTree = "<group>"; };
 		215CADBB244F35B700F16D22 /* Number of Islands.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Number of Islands.swift"; sourceTree = "<group>"; };
 		21B0814224515F9700B0AE66 /* [525]Contiguous Array.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[525]Contiguous Array.swift"; sourceTree = "<group>"; };
@@ -236,11 +238,12 @@
 				2143CBD5247266ED00187324 /* [1207]Unique Number Of Occurrences.swift */,
 				2143CBD32472667A00187324 /* [1221]Split a String in Balanced Strings.swift */,
 				21399A9F2472D9D8004EDA98 /* [1232]Check If It Is a Straight Line.swift */,
+				214F191A247CD9B400DAC411 /* [1281]Subtract the Product and Sum of Digits of an Integer.swift */,
 				21399AB924758B35004EDA98 /* [1295]Find Numbers with Even Number of Digits.swift */,
+				214F191C247CE7E600DAC411 /* [1313]Decompress Run-Length Encoded List.swift */,
 				214F1918247CD94400DAC411 /* [1342]Number of Steps to Reduce a Number to Zero.swift */,
 				214F1916247CD57E00DAC411 /* [1365]How Many Numbers Are Smaller Than the Current Number.swift */,
 				21399A952472CE8A004EDA98 /* [1431]Kids With the Greatest Number of Candies.swift */,
-				214F191A247CD9B400DAC411 /* [1281]Subtract the Product and Sum of Digits of an Integer.swift */,
 			);
 			path = Easy;
 			sourceTree = "<group>";
@@ -336,6 +339,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				214F191D247CE7E600DAC411 /* [1313]Decompress Run-Length Encoded List.swift in Sources */,
 				21B52606244EC58F0010B1AE /* [876]Middle of the Linked List.swift in Sources */,
 				21B0814324515F9700B0AE66 /* [525]Contiguous Array.swift in Sources */,
 				214F1917247CD57E00DAC411 /* [1365]How Many Numbers Are Smaller Than the Current Number.swift in Sources */,
