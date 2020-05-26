@@ -84,3 +84,6 @@ struct Medium {}
 //
 //print(maxUncrossedLines([1,1,2,1,2], [1,3,2,3,1]))
 //print(maxUncrossedLines([2,5,1,2,5], [10,5,2,1,5,2]))
+
+let result = Easy.minimumAbsDifference([40, 11, 26, 27, -40])
+print(result)
